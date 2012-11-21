@@ -23,7 +23,7 @@ public class HelloAndroidActivityTest {
 
     @Test
         public void itProperlyGreetsYou() {
-            assertThat(textOf(id.greet_them), equalTo("Hello android-travis !"));
+            assertThat(textOf(id.greet_them), equalTo("Hello android-travis!"));
         }
 
     private String textOf(int id) {
