@@ -7,7 +7,7 @@ import com.leviwilson.android.R;
 
 public class HelloAndroidActivity extends Activity {
 
-    private static String TAG = "android-travis-ci-example";
+    private static String TAG = "android-travis";
 
     /**
      * Called when the activity is first created.
